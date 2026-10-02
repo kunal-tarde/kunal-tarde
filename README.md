@@ -37,19 +37,14 @@
 </p>
 
 ---
-
-
-</div>
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tardekunal99@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-j-shaikh/)
+[![Email](https://img.shields.io/badge/Email-afsk1997@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsk1997@gmail.com)
+
+</div>
 
 <div align="center">
   
