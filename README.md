@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
- I am a Storage and Backup administrator in TCS transition to Devops/Cloud Engineer roles.
+ I am a Storage and Backup Administrator in TCS and loves to work as a Devops/Cloud Engineer roles.
 - 💡 Passionate about automation, cloud-native solutions, and troubleshooting real-world workflows.  
 - 🌱 Currently completing a DevOps course and building project-based experience to reflect one year of practical learning.  
 - 🌱 Always learning about **emerging technologies** and **best practices**
