@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
- I am a Storage and backup administrator in TCS transition to Devops/Cloud Engineer roles.
+ I am a Storage and Backup administrator in TCS transition to Devops/Cloud Engineer roles.
 - 💡 Passionate about automation, cloud-native solutions, and troubleshooting real-world workflows.  
 - 🌱 Currently completing a DevOps course and building project-based experience to reflect one year of practical learning.  
 - 🌱 Always learning about **emerging technologies** and **best practices**
-- 💬 Ask me about **Python and DevOps**
+- 💬 Ask me about **DevOps & Production Envoirnment**
 - ⚡ Fun fact: I love sharing knowledge through **GitHub & LinkedIn**
 
 ---
@@ -38,20 +38,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afroz-J-Shaikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-j-shaikh/)
-[![Email](https://img.shields.io/badge/Email-afsk1997@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsk1997@gmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/kunal-tarde-7b0229235)
+[![Email](https://shields.io)](mailto:tardekunal99@gmail.com)
+
+</div>
+
 
 </div>
 
