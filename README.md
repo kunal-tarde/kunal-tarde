@@ -39,16 +39,6 @@
 ---
 
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/kunal-tarde-7b0229235)
-[![Email](https://shields.io)](mailto:tardekunal99@gmail.com)
-
-</div>
-
-
 </div>
 
 ---
